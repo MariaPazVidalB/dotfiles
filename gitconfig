@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mariapazvidalb@gmail.com
+	name = Maria Paz Vidal
